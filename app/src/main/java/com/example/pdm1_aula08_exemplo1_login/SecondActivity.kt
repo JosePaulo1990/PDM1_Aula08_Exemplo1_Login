@@ -1,7 +1,7 @@
-package com.example.pdm1_aula07_exemplo1_tlogin
+package com.example.pdm1_aula08_exemplo1_login
 
 import android.os.Bundle
-import com.example.pdm1_aula07_exemplo1_tlogin.databinding.ActivitySecondBinding
+import com.example.pdm1_aula08_exemplo1_login.databinding.ActivitySecondBinding
 import androidx.activity.ComponentActivity
 import androidx.activity.OnBackPressedCallback
 import android.app.AlertDialog

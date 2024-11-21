@@ -1,4 +1,4 @@
-package com.example.pdm1_aula07_exemplo1_tlogin.ui.theme
+package com.example.pdm1_aula08_exemplo1_login.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.example.pdm1_aula07_exemplo1_tlogin
+package com.example.pdm1_aula08_exemplo1_login
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.pdm1_aula07_exemplo1_tlogin", appContext.packageName)
+        assertEquals("com.example.pdm1_aula08_exemplo1_login", appContext.packageName)
     }
 }

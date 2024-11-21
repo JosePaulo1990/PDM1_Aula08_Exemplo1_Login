@@ -1,4 +1,4 @@
-package com.example.pdm1_aula07_exemplo1_tlogin
+package com.example.pdm1_aula08_exemplo1_login
 
 import org.junit.Test
 

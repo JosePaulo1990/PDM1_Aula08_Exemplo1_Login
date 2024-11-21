@@ -1,10 +1,10 @@
-package com.example.pdm1_aula07_exemplo1_tlogin
+package com.example.pdm1_aula08_exemplo1_login
 
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.ComponentActivity
-import com.example.pdm1_aula07_exemplo1_tlogin.databinding.ActivityMainBinding
+import com.example.pdm1_aula08_exemplo1_login.databinding.ActivityMainBinding
 import java.util.Date
 
 class MainActivity : ComponentActivity() {

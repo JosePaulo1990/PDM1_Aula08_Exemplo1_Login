@@ -1,6 +1,5 @@
-package com.example.pdm1_aula07_exemplo1_tlogin.ui.theme
+package com.example.pdm1_aula08_exemplo1_login.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
@@ -34,7 +33,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun PDM1_Aula07_Exemplo1_TLoginTheme(
+fun PDM1_Aula08_Exemplo1_LoginTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pdm1_aula07_exemplo1_tlogin"
+    namespace = "com.example.pdm1_aula08_exemplo1_login"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.pdm1_aula07_exemplo1_tlogin"
+        applicationId = "com.example.pdm1_aula08_exemplo1_login"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
