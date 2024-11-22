@@ -3,8 +3,17 @@
 
     <item
         android:id="@+id/option1"
-        android:title="Item" />
+        android:title="Links" >
+        <menu >
+            <item
+                android:id="@+id/suboption1"
+                android:title="Portal IFPE" />
+            <item
+                android:id="@+id/suboption2"
+                android:title="Kotlin" />
+        </menu>
+    </item>
     <item
         android:id="@+id/option2"
-        android:title="Item" />
+        android:title="Compartilhar" />
 </menu>
