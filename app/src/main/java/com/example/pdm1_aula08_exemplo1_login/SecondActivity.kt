@@ -2,11 +2,11 @@ package com.example.pdm1_aula08_exemplo1_login
 
 import android.os.Bundle
 import com.example.pdm1_aula08_exemplo1_login.databinding.ActivitySecondBinding
-import androidx.activity.ComponentActivity
 import androidx.activity.OnBackPressedCallback
 import android.app.AlertDialog
+import androidx.appcompat.app.AppCompatActivity
 
-class SecondActivity : ComponentActivity() { // Destacar o uso de Activity()
+class SecondActivity : AppCompatActivity() {
     private lateinit var binding: ActivitySecondBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
